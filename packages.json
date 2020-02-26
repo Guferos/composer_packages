@@ -1,0 +1,15 @@
+{
+    "packages": {
+        "explodingphone/codeigniter-installer": {
+            "master": {
+                "name": "explodingphone/codeigniter-installer",
+                "source": {
+                    "type": "git",
+                    "url": "git@gitlab.com:explodingphone/codeigniter-installer.git"
+                },
+                "type": "project",
+                "version": "master"
+            }
+        }
+    }
+}
